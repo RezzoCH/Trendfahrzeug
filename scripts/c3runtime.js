@@ -1457,7 +1457,7 @@ self.C3_ExpressionFuncs = [
 			const n1 = p._GetNode(1);
 			const f2 = p._GetNode(2).GetBoundMethod();
 			const v3 = p._GetNode(3).GetVar();
-			return () => ((("mailto:iphone.derspanier@gmail.com?subject=" + f0(n1.ExpObject())) + "&body=") + f2(v3.GetValue()));
+			return () => ((("mailto:trendfahrzeuge.polizei@lu.ch?subject=" + f0(n1.ExpObject())) + "&body=") + f2(v3.GetValue()));
 		},
 		() => "Layout Startbildschirm",
 		() => "Schaltersteuerung LMF",
